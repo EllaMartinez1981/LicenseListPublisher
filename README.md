@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/spdx/LicenseListPublisher.svg?branch=master)](https://travis-ci.org/spdx/LicenseListPublisher)
+@EllaMartinez1981[![Build Status](https://travis-ci.org/spdx/LicenseListPublisher.svg?branch=master)](https://travis-ci.org/spdx/LicenseListPublisher)
 
 # LicenseListPublisher
 
